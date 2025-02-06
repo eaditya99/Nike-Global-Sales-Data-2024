@@ -74,7 +74,11 @@ View the interactive dashboard here: [Nike Global Sales Dashboard](https://publi
 4. **Price Sensitivity Analysis**: Adjust pricing strategies based on regional and product-specific trends.
 
 ## Future Work
-- **Deploying the Model**: Implement real-time prediction for sales forecasting.
+
+- **Real-Time Price Optimization**: Implement dynamic pricing adjustments based on real-time demand and competitor pricing trends.
+- **Advanced Sales Forecasting**: Improve demand prediction using time-series modeling and external economic indicators.
+- **Advanced Feature Engineering**: Integrate additional external data sources (e.g., macroeconomic indicators, competitor pricing).  
+- **Deep Dive into Consumer Behavior**: Leverage customer insights to refine marketing strategies.
 - **Advanced Feature Engineering**: Integrate additional external data sources (e.g., macroeconomic indicators, competitor pricing).
 - **Deep Dive into Consumer Behavior**: Leverage customer insights to refine marketing strategies.
 
