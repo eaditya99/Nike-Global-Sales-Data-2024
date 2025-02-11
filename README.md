@@ -44,7 +44,6 @@ Explore a comprehensive dataset of Nike's global sales for the year 2024, spanni
 5. **Annual Category Sales**: Total units sold for each product category over the year.
 6. **Sub-Category Breakdown**: Detailed breakdown of sales for each sub-category.
 7. **Online Sales Contribution**: Measure online sales impact on overall revenue and category performance.
-8. **Pricing Analysis**: Evaluate pricing strategies and their effect on sales performance.
 
 ## Machine Learning Model
 ### Models Used:
@@ -53,9 +52,8 @@ Explore a comprehensive dataset of Nike's global sales for the year 2024, spanni
 
 ### Evaluation Metrics:
 1. **Mean Absolute Error (MAE)**
-2. **Mean Squared Error (MSE)**
-3. **Root Mean Squared Error (RMSE)**
-4. **R-squared (R²)**
+2. **Root Mean Squared Error (RMSE)**
+3. **R-squared (R²)**
 
 The XGBoost model was selected based on its superior performance in predicting sales trends.
 
