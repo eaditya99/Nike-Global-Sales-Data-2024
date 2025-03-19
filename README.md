@@ -55,7 +55,7 @@ Explore a comprehensive dataset of Nike's global sales for the year 2024, spanni
 2. **Root Mean Squared Error (RMSE)**
 3. **R-squared (R²)**
 
-The XGBoost model was selected based on its superior performance in predicting sales trends.
+The XGBoost model was selected based on its superior performance in predicting the optimal retail price.
 
 ## Dashboard Insights
 - **Top & Bottom Performing Regions**
